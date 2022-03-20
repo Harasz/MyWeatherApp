@@ -1,4 +1,3 @@
-
 # MyWeatherApp
 
 A simple weather Android app writen in Kotlin using [OpenWeatherMap](https://openweathermap.org/).
