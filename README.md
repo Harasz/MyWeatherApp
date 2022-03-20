@@ -4,11 +4,11 @@ A simple weather Android app writen in Kotlin using [OpenWeatherMap](https://ope
 
 ## Demo
 
-Insert gif or link to demo
+<p float="left">
+<img src="normal_view.png" alt="Normal View" width="200"/>
 
-![alt text](./normal_view.png)
-
-![alt text](./simple_view.png)
+<img src="simple_view.png" alt="Simple View" width="200" />
+</p>
 
 ## Authors
 
