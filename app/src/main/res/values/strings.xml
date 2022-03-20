@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyWeatherApp</string>
+    <string name="view_1_title">Normalny</string>
+    <string name="view_2_title">Uproszczony</string>
+    <string name="search_hint">Szukaj</string>
+    <string name="search">Search</string>
+
+    <string name="simple_city_name">%1$s</string>
+    <string name="simple_temp">Temperatura: %1$d°C</string>
+    <string name="simple_pressure">Ciśnienie: %1$d hPa</string>
+    <string name="simple_desc">%1$s</string>
+    <string name="simple_sunrise">Wschód słońca o %1$s</string>
+    <string name="simple_sunset">Zachód słońca o %1$s</string>
+    <string name="simple_read_data">Odczyt danych: %1$s</string>
+
+    <string name="normal_city_name">%1$s</string>
+    <string name="normal_temp">%1$d</string>
+    <string name="normal_pressure">%1$d hPa</string>
+    <string name="normal_desc">%1$s</string>
+    <string name="normal_sunrise">Wschód %1$s</string>
+    <string name="normal_sunset">Zachód %1$s</string>
+    <string name="normal_read_data">Odczyt danych: %1$s</string>
+    <string name="normal_temp_min">MAX: %1$d°C</string>
+    <string name="normal_temp_max">MIN: %1$d°C</string>
+    <string name="normal_temp_feels_like">Odczuwalne %1$d°C</string>
+
+    <string name="icon">Icon</string>
+    <string name="degree_c">°C</string>
+    <string name="szczeg_y">Szczegóły</string>
+</resources>
